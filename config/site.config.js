@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "Chiheisen Vercel Index",
+  title: "Onedrive Index",
 
   // The folder that you are to share publicly with Chiheisen-Vercel-Index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
